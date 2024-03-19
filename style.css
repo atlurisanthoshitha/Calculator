@@ -1,0 +1,27 @@
+.main{
+    border:3px solid black;
+    height: 430px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+}
+body{
+    background-image: url("CalculatorBackgroundimg.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    margin-left: 100px;
+    margin-top: 130px;
+}
+#n1{
+    margin-top: 55px;
+    margin-bottom: 20px;
+}
+#n2{
+    margin-bottom: 20px;
+}
+#btn2{
+    margin-top: 20px ;
+}
